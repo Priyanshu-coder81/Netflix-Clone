@@ -458,10 +458,10 @@ body {
     text-align: left;
   }
 }
-.hide {
+.hideBox {
   display: block;
 }
-.hide-small {
+.hideBox-small {
   display: none;
 }
 
