@@ -435,6 +435,9 @@ body {
 #zero-margin {
   margin-top: 0px;
 }
+.hideBox {
+  display: block;
+}
 
 @media only screen and (max-width: 1280px) {
   .leftContainer img {
@@ -458,9 +461,7 @@ body {
     text-align: left;
   }
 }
-.hideBox {
-  display: block;
-}
+
 .hideBox-small {
   display: none;
 }
@@ -601,4 +602,8 @@ body {
     min-width: 44px;
     min-height: 60px;
   }
+  .hideBox {
+    display:none;
+  }
+  
 }
