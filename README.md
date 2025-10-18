@@ -1,9 +1,16 @@
 # Netflix-Clone
 
 A responsive clone of the Netflix homepage built with HTML, CSS and a touch of JavaScript.  
-```
-    https://frontend-net-flix.netlify.app/
-```
+
+## ⚠️ Heads Up!
+
+My Netflix clone is so realistic that **Google Safe Browsing** sometimes flags it.  
+
+**Don’t worry:** it’s 100% front-end, collects **no data**, and is just for learning and portfolio purposes.  
+
+If your browser warns you, you can safely **click “Continue”** and enjoy the demo:  
+[https://frontend-net-flix.netlify.app/](https://frontend-net-flix.netlify.app/)
+
 
 
 ---
